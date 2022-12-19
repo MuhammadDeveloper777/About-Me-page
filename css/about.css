@@ -1,0 +1,225 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 97vw;
+	height: 100vh;
+	font-family: Vardana;
+
+}
+.row{
+	display: flex;
+
+}
+.my-logo{
+	width: 48.5vw;
+	height: 100vh;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+.my-logo .my-logo-heading{
+		margin-top: 10vh;
+		font-size: 3vh;
+}
+.my-logo ul{
+	list-style: none;
+	margin-top: 20vh;
+}
+.my-logo ul li{
+	margin-top: 5vh;
+}
+.about-me{
+	width: 48.5vw;
+	height: 100vh;
+	background-color: #607d8b;
+	text-align: center;
+	color: white;
+}
+.about-me .about-me-heading{
+	font-size: 3vh;
+	margin-top: 10vh;
+}
+
+
+.about-me img{
+	width: 15vw;
+	hieght: 30vh;
+	margin-top: 5vh;
+	border-radius: 50%;
+}
+.about-me p{
+	width: 45vw;
+	text-align: justify;
+	color: white;
+	margin-left: 2vw;
+	margin-top: 4vh;
+	
+
+}
+	
+.row{
+	display: flex;
+}
+.my-work{
+	width: 48.5vw;
+	height: 100vh;
+	background-color: #FAF9F6 ;	
+}
+.work{
+	text-align: center;
+	font-size: 3vh;
+	margin-top: 10vh;
+}
+.my-work h6{
+	text-align: center;
+	font-size: 2vh;
+	margin-bottom: 15vh;
+}
+.my-work img{
+	width: 24.1vw;
+	height: 17vh;
+	
+}
+.my-work h4{
+	text-align: center;
+}
+
+				
+.resume{
+	width: 48.5vw;
+	height: 100vh;
+	background-color: blue;
+}
+.h1{
+	text-align: center;
+	font-size: 3vh;
+	color: white;
+	margin-top: 10vh;
+}
+.resume h6{
+	text-align: center;
+	color: white;
+	font-size: 2vh;
+}
+.child-row{
+	display: flex;
+
+	
+}
+.y{
+	margin-left: 4vw;
+	color: white;
+}
+.t{
+	margin-left: 7vw;
+	color: white;
+}
+.W{
+	margin-left: 18vw;
+	color: white;
+}
+.child-row1{
+	background-color: white;
+	display: flex;
+	margin-left: 3vw;
+	margin-right: 3vw;
+	margin-top: 2vh;
+}
+.year1{
+	margin-left: 1vw;
+	margin-top: 1vh;
+	margin-bottom: 1vh;
+}
+.h-i{
+	margin-left: 7vw;
+	margin-top: 1vh;
+	margin-bottom: 1vh;
+}
+.para{
+	margin-left: 11vw;
+	margin-top: 1vh;
+	margin-bottom: 1vh;
+}
+.child-row2{
+	
+	display: flex;
+	margin-left: 3vw;
+	margin-right: 3vw;
+	margin-top: 2vh;
+	}
+.year2{
+	margin-left: 1vw;
+	margin-top: 1vh;
+	margin-bottom: 1vh;
+}
+.contact-nmbr{
+	width: 48.5vw;
+	height: 90vh;
+	background-color: #3b3d40;
+}
+.contact-nmbr h3{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 3vh;
+	margin-top: 10vh;
+}
+.contact-nmbr ul{
+	margin-top: 12vh;
+	text-align: center;
+	list-style: none;
+}
+.contact-nmbr li{
+	margin-top: 4vh;
+}
+.contact-form{
+	width: 48.5vw;
+	height: 90vh;
+	background-color: #029e91;
+	text-align: left;
+
+}
+.hoc{
+	margin-top: 8vh;
+	margin-left: 5vw;
+	font-size: 4vh;
+	font-family: sans-serif;
+	color: white;
+
+}
+.contact-form h6{
+	margin-left: 4vw;
+	color: white;
+	font-size: 2vh;
+}
+.box{
+	margin-left: 3vw;
+	background-color: white;
+	width: 42vw;
+	height: 55vh;
+	padding-bottom:2vh ;
+	padding-top: 1vh;
+}
+.text{
+	margin-top: 10vh;
+	margin-left: 1vw;
+	
+
+}
+.email{
+	margin-top: 5vh;
+	margin-left: 1vw;	
+}
+.textarea{
+	margin-top: 5vh;
+	margin-left: 1vw;
+}	
+.button{
+	margin-right: 2vw;
+	text-align: right;
+}
+.row1{
+	width: 97vw;
+	background-color: black;
+}
